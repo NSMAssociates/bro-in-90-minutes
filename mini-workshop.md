@@ -31,7 +31,7 @@ Goal
 **Trainers:  Liam Randall**
    * Twitter / IRC: 	@Hectaman
    * Mail: 		liam.randall@gmail.com
-   * Sponsor: The operating system for the cloud- [Critical Stack](https://www.CriticalStack.com)is the secure container orchestration platform for the enterprise.
+   * Sponsor: The operating system for the cloud- [Critical Stack](https://www.CriticalStack.com) is the secure container orchestration platform for the enterprise.
 
 <a name="optional"></a>
 1 Optional
