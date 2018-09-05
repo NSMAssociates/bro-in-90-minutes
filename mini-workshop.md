@@ -77,7 +77,17 @@ Goal
       * **USE A THROW AWAY PASSWORD**
       * There are many like it, but this one is yours- remember your username / password
       * To access this in the future you will use the username / password combo created now
-  4. This environment is yours to use; it will automatically be destroyed in a 48 hours.
+4. This environment is yours to use; it will automatically be destroyed in a 48 hours.
+5. Useful unix commands:
+  * ```cd``` - change back to my home directory
+  * ```cd <folderName>``` - change into a subfolder
+  * ```cd ..``` - move up the folder tree
+  
+  * ```ls``` - list files in a directory
+  * ```ls *.log``` - list all log files ending in *.log*
+  
+  * ```less -S``` - enable left to right side scrolling for logs
+  * ```cat http.log | colorize | column -t | less -RS``` - Pipe the *http.log* to the colorize macro, pipe that to column and send that to less for side scrolling.
 
 **FAQ:**
 
